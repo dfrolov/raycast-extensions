@@ -1,6 +1,6 @@
 # Slack Changelog
 
-## [Multi-word search support] - 2026-01-19
+## [Multi-word search support] - {PR_MERGE_DATE}
 
 - Improved search in "Open Channel" and "Send Message" commands to support multi-word queries
 - Now you can search for "sre time" to find channel "sre-free-time"
